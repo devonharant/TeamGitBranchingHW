@@ -11,3 +11,4 @@ Ben Duker first commit from the new feature Ben
 >>>>>>> Feature-Ben
 Second commit on the second branch lets go
 // chris first commit again
+// second commit chris
